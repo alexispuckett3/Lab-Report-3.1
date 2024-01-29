@@ -135,6 +135,14 @@ Measured Current Through Components and Gain
 | R2 (Ib)      | 0.01 mA  | 0.27 mA  | 0.03 mA   | 0.04 mA | 0.01 mA  |
 | Gain (Ic/Ib) | 1        | 29.4     |  151      |  118.25 |  209     |
 
+Calculated Current Through Components
+
+| Component | Current (Dim LED) | Current (Bright LED) | Current (Midpoint 1) | Current (Midpoint 2) | Current (Midpoint 3) |
+|:---:|---|---|---|---|---|
+| R1       | 0.01 mA  | 10.66 mA |  3.02 mA  | 4.73 mA |  2.09 mA |
+| R2 (Ib)  | 0.01 mA  | 0.27 mA  | 0.03 mA   | 0.04 mA | 0.01 mA  |
+
+
 
 
 
