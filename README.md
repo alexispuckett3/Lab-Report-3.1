@@ -125,7 +125,7 @@ Measured Voltage Across Components
 |:---:|---|---|---|---|---|
 |   R1    | 0.095 V  | 2.9 V   |  0.79 V  |  1.27 V |  0.557 V |
 | LED 1   | 1.78 V   | 2.04 V  | 1.901 V  | 1.95 V  | 1.88 V   |
-| R2      | 0.005 V  | 1.99 V  | 0.032 V  | 0.05 V  | 0.024 V  |
+| R2      | 0.005 V  | 0.199 V | 0.032 V  | 0.05 V  | 0.024 V  |
 
 Measured Current Through Components and Gain
 
@@ -139,8 +139,8 @@ Calculated Current Through Components
 
 | Component | Current (Dim LED) | Current (Bright LED) | Current (Midpoint 1) | Current (Midpoint 2) | Current (Midpoint 3) |
 |:---:|---|---|---|---|---|
-| R1       | 0.01 mA  | 10.66 mA |  3.02 mA  | 4.73 mA |  2.09 mA |
-| R2 (Ib)  | 0.01 mA  | 0.27 mA  | 0.03 mA   | 0.04 mA | 0.01 mA  |
+| R1       | 0.355 mA   | 10.83 mA  |  2.95 mA   | 4.74 mA  |  2.08 mA |
+| R2 (Ib)  | 0.0051 mA  | 0.201 mA  | 0.032 mA   | 0.051 mA | 0.024 mA |
 
 
 
