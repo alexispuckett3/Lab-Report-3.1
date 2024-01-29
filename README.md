@@ -11,12 +11,12 @@ January 25, 2024
 # Design/Methods:
 
 For this lab we needed:
-* Digital Multimeter (DMM)
-* DC Power Supply
+* Digital Multi-meter (DMM): Fluke 87
+* DC Power Supply: Global Specialties 1403
 * Resistors with resistances 2.2Ohms, 270Ohms, and 1kOhms
 * An LED
-* Sliding switch
-* Electric motor
+* Sliding switch from the Sparkfun kit
+* Electric motor from the Sparkfun kit
 * NTE 125 diode
 * 1kOhm trimmer potentiometer
 * A TIP31C transistor
