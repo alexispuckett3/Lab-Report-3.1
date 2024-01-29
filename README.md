@@ -11,7 +11,7 @@ January 25, 2024
 # Design/Methods:
 
 For this lab we needed:
-* Digital Multimeter
+* Digital Multimeter (DMM)
 * DC Power Supply
 * Resistors with resistances 2.2Ohms, 270Ohms, and 1kOhms
 * An LED
@@ -20,6 +20,15 @@ For this lab we needed:
 * NTE 125 diode
 * 1kOhm trimmer potentiometer
 * A TIP31C transistor
+
+First, measure resistor values using Fluke DMM to compare to labeled resistance and to use in calculations.
+
+| Resistor| Nominal Value| Actual Value |
+|:---:|---|---|
+|  R1    | 270 &Omega;  |  267.7 &Omega; |
+| R2     | 1 k&Omega;   | 988 &Omega;    |
+| R3     | 2.2 &Omega;  |  2.3 &Omega;   |
+
 
 ### Circuit One:
 resistor in series with an LED in series with a switch on a breadboard
