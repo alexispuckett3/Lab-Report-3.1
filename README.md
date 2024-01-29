@@ -107,6 +107,33 @@ As we increase voltage, the Ic increases.
 
 ### Circuit Three Results:
 
+Measured Voltage at Each Test Point
+
+| Test Point | Voltage (Dim LED) | Voltage (Bright LED) | Voltage (Midpoint 1) | Voltage (Midpoint 2) | Voltage (Midpoint 3) |
+|:---:|---|---|---|---|---|
+|   T1     | 4.97 V  | 4.99 V  |        |         |        |
+| T2       | 4.89 V  | 2.05 V  | 4.37 V | 3.67 V  | 4.49 V |
+| T3 (Vce) | 3.09 V  | 0.001 V | 2.47 V | 1.74 V  | 2.54 V |
+| T4       | 0 V     |     0 V |        |         |        |
+| T5 (Vbe) | 0.54 V  | 0.669 V | 0.58 V | 0.605 V | 0.583 V|
+| T6       | 0.54 V  | 2.65 V  | 0.613 V| 0.655 V | 0.605 V|
+
+Measured Voltage Across Components
+
+| Component | Voltage (Dim LED) | Voltage (Bright LED) | Voltage (Midpoint 1) | Voltage (Midpoint 2) | Voltage (Midpoint 3) |
+|:---:|---|---|---|---|---|
+|   R1    | 0.095 V  | 2.9 V   |  0.79 V  |  1.27 V |  0.557 V |
+| LED 1   | 1.78 V   | 2.04 V  | 1.901 V  | 1.95 V  | 1.88 V   |
+| R2      | 0.005 V  | 1.99 V  | 0.032 V  | 0.05 V  | 0.024 V  |
+
+Measured Current Through Components and Gain
+
+| Component | Current (Dim LED) | Current (Bright LED) | Current (Midpoint 1) | Current (Midpoint 2) | 
+Current (Midpoint 3) |
+|:---:|---|---|---|---|---|
+| LED 1 (Ic)   | 0.01 mA  | 10.66 mA |  3.02 mA  | 4.73 mA |  2.09 mA |
+| R2 (Ib)      | 0.01 mA  | 0.27 mA  | 0.03 mA   | 0.04 mA | 0.01 mA  |
+| Gain (Ic/Ib) | 1        | 29.4     |  151      |  118.25 |  209     |
 
 
 
