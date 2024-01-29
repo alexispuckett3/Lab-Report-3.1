@@ -25,7 +25,7 @@ For this lab we needed:
 
 # Results:
 
-Circuit One Results:
+## Circuit One Results:
 
 Measured Voltage at Each Test Point
 
