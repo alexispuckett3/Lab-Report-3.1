@@ -21,7 +21,7 @@ For this lab we needed:
 * 1kOhm trimmer potentiometer
 * A TIP31C transistor
 
-## Circuit One:
+### Circuit One:
 resistor in series with an LED in series with a switch on a breadboard
 
 
@@ -29,7 +29,7 @@ resistor in series with an LED in series with a switch on a breadboard
 
 # Results:
 
-## Circuit One Results:
+### Circuit One Results:
 
 Measured Voltage at Each Test Point
 
@@ -55,7 +55,7 @@ Current Through Components (Measured and Calculated)
 |   R1 (calculated) | 10.98 mA  | 0 mA    |
 | LED 1 (measured)  | 10.89 mA  | 0.01 mA |
 
-## Circuit Two Results:
+### Circuit Two Results:
 
 Measured Voltage at Each Test Point
 
@@ -96,7 +96,7 @@ At V= 5.4V, Ic = 12.23mA
 At V= 5.3V, Ic = 11.9mA
 As we increase voltage, the Ic increases.
 
-## Circuit Three Results:
+### Circuit Three Results:
 
 
 
