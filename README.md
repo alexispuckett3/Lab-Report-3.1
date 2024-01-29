@@ -100,9 +100,10 @@ What is the voltage drop (Vce) across the transistor (Q1) when the LED is on?
 Vce = 0.015 V
 
 What should you see happen to Ic as you change the voltage?
-At V= 5.5V, Ic = 12.63 mA
-At V= 5.4V, Ic = 12.23mA
-At V= 5.3V, Ic = 11.9mA
+
+* At V= 5.5V, Ic = 12.63 mA
+* At V= 5.4V, Ic = 12.23mA
+* At V= 5.3V, Ic = 11.9mA
 As we increase voltage, the Ic increases.
 
 ### Circuit Three Results:
