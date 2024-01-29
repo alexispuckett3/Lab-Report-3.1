@@ -21,6 +21,10 @@ For this lab we needed:
 * 1kOhm trimmer potentiometer
 * A TIP31C transistor
 
+## Circuit One:
+resistor in series with an LED in series with a switch on a breadboard
+
+
 
 
 # Results:
@@ -83,6 +87,28 @@ Current Through Components (Measured and Calculated)
 | R2 (measured)(Ib)    | 4.36 mA   | 0.01 mA |
 | R2 (calculated)      | 4.32 mA   | 0 mA    |
 
+What is the voltage drop (Vce) across the transistor (Q1) when the LED is on?
+Vce = 0.015 V
+
+What should you see happen to Ic as you change the voltage?
+At V= 5.5V, Ic = 12.63 mA
+At V= 5.4V, Ic = 12.23mA
+At V= 5.3V, Ic = 11.9mA
+As we increase voltage, the Ic increases.
+
+## Circuit Three Results:
+
+
+
+
+
 # Discussion Questions:
+
+## Discussion Question One:
+How does the current through the LED compare between circuits 1 and 2?
+
+## Discussion Question Two:
+The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?
+
 
 # Conclusions:
