@@ -51,9 +51,37 @@ Current Through Components (Measured and Calculated)
 |   R1 (calculated) | 10.98 mA  | 0 mA    |
 | LED 1 (measured)  | 10.89 mA  | 0.01 mA |
 
+## Circuit Two Results:
 
+Measured Voltage at Each Test Point
 
+| Test Point | Voltage (Switch On) | Voltage (Switch Off) |
+|:---:|---|---|
+|   T1     | 4.92 V   | 4.99 V  |
+| T2       | 2.061 V  | 4.99 V  |
+| T3 (Vce) | 0.015 V  |  3.47 V |
+| T4       | 0 V      |     0 V |
+| T5 (Vbe) | 0.696 V  | 0.009 V |
+| T6       | 4.97 V   | 0.007 V |
+| T7       | 4.99 V   |  4.99 V |
 
+Measured Voltage Across Components
+
+| Component | Voltage (Switch On) | Voltage (Switch Off) |
+|:---:|---|---|
+|   R1   | 2.92 V   | 0 V      |
+| LED 1  | 2.047 V  | 0.005 V  |
+| R2     | 4.27 V   |  0 V     |
+| S1     | 0.001 V  |  0 V     |
+
+Current Through Components (Measured and Calculated)
+
+| Component | Current (Switch On) | Current (Switch Off) |
+|:---:|---|---|
+|   R1 (calculated)    | 10.98 mA  | 0 mA    |
+| LED 1 (measured)(Ic) | 10.89 mA  | 0.01 mA |
+| R2 (measured)(Ib)    | 4.36 mA   | 0.01 mA |
+| R2 (calculated)      | 4.32 mA   | 0 mA    |
 
 # Discussion Questions:
 
