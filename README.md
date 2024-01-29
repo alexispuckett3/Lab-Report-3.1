@@ -36,6 +36,24 @@ Measured Voltage at Each Test Point
 | T3     | 0.002 V  |  3.49 V |
 | T4     | 0.007 V  | 0.002 V |
 
+Measured Voltage Across Components
+
+| Component | Voltage (Switch On) | Voltage (Switch Off) |
+|:---:|---|---|
+|   R1   | 2.94 V   | 0 V      |
+| LED 1  | 2.047 V  | 0.147 V  |
+| S1     | 0.001 V  |  0.001 V |
+
+Current Through Components (Measured and Calculated)
+
+| Component | Current (Switch On) | Current (Switch Off) |
+|:---:|---|---|
+|   R1 (calculated) | 10.98 mA  | 0 mA    |
+| LED 1 (measured)  | 10.89 mA  | 0.01 mA |
+
+
+
+
 
 # Discussion Questions:
 
