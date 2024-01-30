@@ -8,6 +8,8 @@ January 25, 2024
 # Project Summary:
 
 
+In this lab the deeper understanding of diodes and transistors with a heavy focus on the bipolar junction transistor. In order to do this a series of measurements and differing circuit variables were designed and tested throughout this lab. For each circuit, the voltage across and current across the variables were measured with the Fluke Multimeter. We also changed the circuits by changing some components such as using a switch, motor, and diode. These were used to show how the current can change using these components.  
+
 # Design/Methods:
 
 For this lab we needed:
@@ -156,3 +158,5 @@ The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We wo
 
 
 # Conclusions:
+
+In this lab we learned about diodes and transistors. Our learnings were discovered by constructing a series of circuits and placing differing transistors and diodes into the circuits. These circuits allowed us to see how diodes are semiconductors and stop current flow from one direction by using LED’s to see the current and voltage flow/drop. This also showed, by using a switch and potentiometer, how diodes and LED’s control current flow in one direction in circuit. In addition, in this lab we learned how transistors can be used as a switch in certain circuits, we saw this by using a series of differing transistors such as a TIP 31 C transistor, a 1kOhm trimmer potentiometer and a switch from the SparkFun kit. These allowed us to control the current that was going through the transistors. With these transistors, the lab also showed us how we can control the current and voltage going through each of the components. The current and voltage were measured and we also saw how the transistors take some of the current away from the rest of the components and limit how much is going through. 
