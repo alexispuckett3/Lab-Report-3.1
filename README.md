@@ -7,7 +7,6 @@ January 25, 2024
 
 # Project Summary:
 
-
 In this lab the deeper understanding of diodes and transistors with a heavy focus on the bipolar junction transistor. In order to do this a series of measurements and differing circuit variables were designed and tested throughout this lab. For each circuit, the voltage across and current across the variables were measured with the Fluke Multimeter. We also changed the circuits by changing some components such as using a switch, motor, and diode. These were used to show how the current can change using these components.  
 
 # Design/Methods:
@@ -33,7 +32,10 @@ First, measure resistor values using Fluke DMM to compare to labeled resistance 
 
 
 ### Circuit One:
-resistor in series with an LED in series with a switch on a breadboard
+
+The first circuit consisted of a resistor in series with an LED in series with a switch on a breadboard. 
+
+Once we put all of the components together on the breadboard, we connected 
 
 
 
