@@ -41,7 +41,7 @@ Once we put all of the components together on the breadboard, we supplied 5V to 
 
 The second circuit consisted of two resistors (R1 and R2), an LED, a TIP31C transistor, and a switch. Once built on the breadboard, we connected it to the DCPS to supply 5V to the circuit.
 
-
+We then measured the voltage at each test point (T1-T7) and the voltage drop across each component along with the current through the LED and R2.
 
 
 # Results:
