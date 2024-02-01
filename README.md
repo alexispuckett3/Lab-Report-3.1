@@ -33,9 +33,13 @@ First, measure resistor values using Fluke DMM to compare to labeled resistance 
 
 ### Circuit One:
 
-The first circuit consisted of a resistor in series with an LED in series with a switch on a breadboard. 
+The first circuit consisted of a resistor (R1) in series with an LED in series with a switch on a breadboard. 
 
-Once we put all of the components together on the breadboard, we connected 
+Once we put all of the components together on the breadboard, we supplied 5V to the circuit using the DC Power Supply (DCPS). We then used the Digital Multi-Meter (DMM) to measure the voltage at each test site (T1, T2, T3, and T4) seen on the circuit drawing. We recorded the values and measured the voltage drop across each component in this circuit and the current through the LED using the DMM.
+
+### Circuit Two:
+
+The second circuit consisted of two resistors (R1 and R2), an LED, a TIP31C transistor, and a switch. Once built on the breadboard, we connected it to the DCPS to supply 5V to the circuit.
 
 
 
