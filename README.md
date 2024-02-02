@@ -41,8 +41,15 @@ Once we put all of the components together on the breadboard, we supplied 5V to 
 
 The second circuit consisted of two resistors (R1 and R2), an LED, a TIP31C transistor, and a switch. Once built on the breadboard, we connected it to the DCPS to supply 5V to the circuit.
 
-We then measured the voltage at each test point (T1-T7) and the voltage drop across each component along with the current through the LED and R2.
+We then measured the voltage at each test point (T1-T7) and the voltage drop across each component along with the current through the LED and R2. Finally, we adjusted the fine control on the DCPS to see what happens to the current through the transistor as the voltage changes.
 
+### Circuit Three: 
+
+The final circuit contained two resistors (R1 and R2), an LED, a TIP31C transistor, and a potentiometer on a breadboard. Once assembled we once again connected it to the 5VDC of the DCPS.
+
+We measured the voltages using the DMM at each point labeled in drawing. We then changed the resistance in the potentiometer until the LED was barely visible and took measurements. These are the Dim LED measurements. Then we changed the resistance in potentiometer until the LED reached full brightness and took measurements. These are the Bright LED measurements. Next, we found three levels of brightness with voltages between the Dim and Bright LED voltage measurements and took measurements at these three levels. 
+
+We were unable to complete part two of the lab because we ran out of time and we could not get the motor to work. We then realized that the resistor we were using had too high of a resistance and was taking too much voltage. We used the 270 ohm resistor instead of the 2.2 ohm resistor.
 
 # Results:
 
@@ -104,7 +111,7 @@ Current Through Components (Measured and Calculated)
 | R2 (measured)(Ib)    | 4.36 mA   | 0.01 mA |
 | R2 (calculated)      | 4.32 mA   | 0 mA    |
 
-What is the voltage drop (Vce) across the transistor (Q1) when the LED is on?
+Voltage drop (Vce) across the transistor (Q1) when the LED is on:
 Vce = 0.015 V
 
 What should you see happen to Ic as you change the voltage?
@@ -150,14 +157,11 @@ Calculated Current Through Components
 | R1       | 0.355 mA   | 10.83 mA  |  2.95 mA   | 4.74 mA  |  2.08 mA |
 | R2 (Ib)  | 0.0051 mA  | 0.201 mA  | 0.032 mA   | 0.051 mA | 0.024 mA |
 
-
-
-
-
 # Discussion Questions:
 
 ## Discussion Question One:
 How does the current through the LED compare between circuits 1 and 2?
+The current through the LED in circuits 1 and 2 was exactly the same for each current. When the switch was closed the current was measured to be 10.89mA, and when the switch was open the current was 0.01mA. 
 
 ## Discussion Question Two:
 The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?
