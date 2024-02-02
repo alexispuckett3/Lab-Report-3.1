@@ -35,11 +35,20 @@ First, measure resistor values using Fluke DMM to compare to labeled resistance 
 
 The first circuit consisted of a resistor (R1) in series with an LED in series with a switch on a breadboard. 
 
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
 Once we put all of the components together on the breadboard, we supplied 5V to the circuit using the DC Power Supply (DCPS). We then used the Digital Multi-Meter (DMM) to measure the voltage at each test site (T1, T2, T3, and T4) seen on the circuit drawing. We recorded the values and measured the voltage drop across each component in this circuit and the current through the LED using the DMM.
 
 ### Circuit Two:
 
 The second circuit consisted of two resistors (R1 and R2), an LED, a TIP31C transistor, and a switch. Once built on the breadboard, we connected it to the DCPS to supply 5V to the circuit.
+
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
 
 We then measured the voltage at each test point (T1-T7) and the voltage drop across each component along with the current through the LED and R2. Finally, we adjusted the fine control on the DCPS to see what happens to the current through the transistor as the voltage changes.
 
@@ -47,7 +56,11 @@ We then measured the voltage at each test point (T1-T7) and the voltage drop acr
 
 The final circuit contained two resistors (R1 and R2), an LED, a TIP31C transistor, and a potentiometer on a breadboard. Once assembled we once again connected it to the 5VDC of the DCPS.
 
-We measured the voltages using the DMM at each point labeled in drawing. We then changed the resistance in the potentiometer until the LED was barely visible and took measurements. These are the Dim LED measurements. Then we changed the resistance in potentiometer until the LED reached full brightness and took measurements. These are the Bright LED measurements. Next, we found three levels of brightness with voltages between the Dim and Bright LED voltage measurements and took measurements at these three levels. 
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
+We measured the voltages using the DMM at each point labeled in drawing (T1-T6). We then changed the resistance in the potentiometer until the LED was barely visible and took measurements. These are the Dim LED measurements. Then we changed the resistance in potentiometer until the LED reached full brightness and took measurements. These are the Bright LED measurements. Next, we found three levels of brightness with voltages between the Dim and Bright LED voltage measurements and took measurements at these three levels. 
 
 We were unable to complete part two of the lab because we ran out of time and we could not get the motor to work. We then realized that the resistor we were using had too high of a resistance and was taking too much voltage. We used the 270 ohm resistor instead of the 2.2 ohm resistor.
 
