@@ -22,7 +22,7 @@ For this lab we needed:
 * 1kOhm trimmer potentiometer
 * A TIP31C transistor
 
-First, measure resistor values using Fluke DMM to compare to labeled resistance and to use in calculations.
+First, measure resistor values using the Fluke DMM to compare to labeled resistance and to use in calculations.
 
 | Resistor| Nominal Value| Actual Value |
 |:---:|---|---|
@@ -39,7 +39,7 @@ The first circuit consisted of a resistor (R1) in series with an LED in series w
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/circuit%201%20redo%20lab%204.jpg">
 </p>
 
-Once we put all of the components together on the breadboard, we supplied 5V to the circuit using the DC Power Supply (DCPS). We then used the Digital Multi-Meter (DMM) to measure the voltage at each test site (T1, T2, T3, and T4) seen on the circuit drawing. We recorded the values and measured the voltage drop across each component in this circuit and the current through the LED using the DMM.
+Once we put all of the components together on the breadboard, we supplied 5V to the circuit using the DC Power Supply (DCPS). We then used the (DMM) to measure the voltage at each test site (T1, T2, T3, and T4) seen on the circuit drawing. We recorded the values and measured the voltage drop across each component in this circuit and the current through the LED using the DMM.
 
 ### Circuit Two:
 
