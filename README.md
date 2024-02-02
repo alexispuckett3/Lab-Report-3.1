@@ -163,6 +163,23 @@ Measured Current Through Components and Gain
 | R2 (Ib)      | 0.01 mA  | 0.27 mA  | 0.03 mA   | 0.04 mA | 0.01 mA  |
 | Gain (Ic/Ib) | 1        | 29.4     |  151      |  118.25 |  209     |
 
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
+
 Calculated Current Through Components
 
 | Component | Current (Dim LED) | Current (Bright LED) | Current (Midpoint 1) | Current (Midpoint 2) | Current (Midpoint 3) |
@@ -179,6 +196,8 @@ The current through the LED in circuits 1 and 2 was exactly the same for each cu
 
 ## Discussion Question Two:
 The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?
+
+The Vce we measured was 0.015V, which is significantly smaller than the maximum voltage drop at saturation at 1.2V. 
 
 
 # Conclusions:
