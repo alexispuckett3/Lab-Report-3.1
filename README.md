@@ -185,7 +185,6 @@ The current through the LED in circuits 1 and 2 was exactly the same for each cu
 ## Discussion Question Two:
 The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?
 
-The Vce we measured was 0.015V, which is significantly smaller than the maximum voltage drop at saturation at 1.2V. 
 
 
 # Conclusions:
