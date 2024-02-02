@@ -163,6 +163,8 @@ Measured Current Through Components and Gain
 | R2 (Ib)      | 0.01 mA  | 0.27 mA  | 0.03 mA   | 0.04 mA | 0.01 mA  |
 | Gain (Ic/Ib) | 1        | 29.4     |  151      |  118.25 |  209     |
 
+Graphs of Gain, Ib, Ic, and Vce at Each Level of Brightness
+
 <p align="center">
   <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/Screenshot%202024-02-01%20at%208.00.48%20PM.png">
 </p>
