@@ -127,12 +127,13 @@ Current Through Components (Measured and Calculated)
 Voltage drop (Vce) across the transistor (Q1) when the LED is on:
 Vce = 0.015 V
 
-What should you see happen to Ic as you change the voltage?
+As we changed the voltage using the fine control on the DCPS we saw:
 
 * At V= 5.5V, Ic = 12.63 mA
 * At V= 5.4V, Ic = 12.23mA
 * At V= 5.3V, Ic = 11.9mA
-As we increase voltage, the Ic increases.
+  
+As we increase voltage, the Ic increases linearly because the transistor is working in the saturation region, not in the active region. In the active region, the transistor acts more like an amplifier, which would increase the gain. However, a high gain is not seen in the above data. The change in voltage above caused a linear change in current.
 
 ### Circuit Three Results:
 
@@ -187,6 +188,7 @@ The current through the LED in circuits 1 and 2 was exactly the same for each cu
 ## Discussion Question Two:
 The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?
 
+The measured Vce voltage is 0.015V, which is significantly lower than the maximum voltage drop at saturation of 1.2V. Because this value is less than the 1.2V, we believe that this transistor is operating in the saturation region. In the saturation region, the voltage drop across the collector and emitter will be very close to zero, which 0.015V is closer to zero than it is to the maximum voltage drop at saturation of 1.2V listed in the datasheet. 
 
 
 # Conclusions:
