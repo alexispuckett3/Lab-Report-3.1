@@ -164,19 +164,7 @@ Measured Current Through Components and Gain
 | Gain (Ic/Ib) | 1        | 29.4     |  151      |  118.25 |  209     |
 
 <p align="center">
-  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
-</p>
-
-<p align="center">
-  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
-</p>
-
-<p align="center">
-  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
-</p>
-
-<p align="center">
-  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+  <img src="https://github.com/hrma240/Lab-3-attempt-3/blob/main/Screenshot%202024-02-01%20at%208.00.48%20PM.png">
 </p>
 
 
