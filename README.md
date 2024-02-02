@@ -161,6 +161,7 @@ Calculated Current Through Components
 
 ## Discussion Question One:
 How does the current through the LED compare between circuits 1 and 2?
+
 The current through the LED in circuits 1 and 2 was exactly the same for each current. When the switch was closed the current was measured to be 10.89mA, and when the switch was open the current was 0.01mA. 
 
 ## Discussion Question Two:
