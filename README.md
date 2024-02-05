@@ -11,7 +11,7 @@ The goal of this lab is to learn more about transistors and diodes. In this lab 
 
 # Design/Methods:
 
-For this lab we needed:
+In this lab we needed:
 * Digital Multi-meter (DMM): Fluke 87
 * DC Power Supply: Global Specialties 1403
 * Resistors with resistances 2.2Ohms, 270Ohms, and 1kOhms
